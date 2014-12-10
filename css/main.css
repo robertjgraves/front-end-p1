@@ -1,0 +1,41 @@
+/* Enter your custom CSS here */
+* {
+    font-family: "Lucida Grande", sans-serif;
+}
+
+h1 {
+    color: #666666;
+    font-size: 47px;
+    margin: 45px 0 31px 0;
+}
+
+h2 {
+    color: #F07C17;
+    margin: 0 0 30px 0;
+    font-size: 1.7em;
+    letter-spacing: .085em;
+}
+
+p {
+    font-size: 1.15em;
+    line-height: 32px;   
+}
+
+img {
+    max-width: 100%;
+}
+
+.main-features {
+    margin: 30px 0 0 0;
+    padding: 30px 30px 45px 30px;
+    border: 1px solid #CCCCCC;
+}
+
+.main-features ul {
+    margin: 35px 0 0 0; 
+}
+
+.main-features ul li {
+    margin: 10px 0 0 0;
+    font-size: 1.15em;
+}
