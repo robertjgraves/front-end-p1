@@ -4,13 +4,13 @@
 }
 
 h1 {
-    color: #666666;
+    color: #666;
     font-size: 47px;
     margin: 45px 0 31px 0;
 }
 
 h2 {
-    color: #F07C17;
+    color: #f07c17;
     margin: 0 0 30px 0;
     font-size: 1.7em;
     letter-spacing: .085em;
@@ -18,7 +18,7 @@ h2 {
 
 p {
     font-size: 1.15em;
-    line-height: 32px;   
+    line-height: 32px;
 }
 
 img {
@@ -28,11 +28,11 @@ img {
 .main-features {
     margin: 30px 0 0 0;
     padding: 30px 30px 45px 30px;
-    border: 1px solid #CCCCCC;
+    border: 1px solid #ccc;
 }
 
 .main-features ul {
-    margin: 35px 0 0 0; 
+    margin: 35px 0 0 0;
 }
 
 .main-features ul li {
